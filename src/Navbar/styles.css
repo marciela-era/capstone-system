@@ -1,0 +1,32 @@
+nav {
+    font-size: 18px;
+    height: 55px;
+    width: 100%;
+}
+
+.icon {
+    font-family: 'Arial Black', sans-serif;
+    font-size: 18px;
+    color: #F9E79F;
+}
+
+.navbar-custom {
+  background-color: rgba(72, 33, 214, 0.747);
+}
+
+.navbar-text  {
+  color: #F9E79F;
+}
+
+.navbar-text:hover {
+    color: rgba(229, 160, 160, 0.8) !important;
+}
+
+.navbar-button {
+    width: 100px;
+    height: 40px;
+    color: #fff;
+    border: none;
+}
+
+
